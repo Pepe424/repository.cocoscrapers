@@ -15,7 +15,7 @@
 		<assets><icon>icon.png</icon><fanart>fanart.png</fanart></assets>
 	</extension>
 </addon>
-<addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.40" provider-name="CocoJoe">
+<addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.40.1" provider-name="CocoJoe">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" />
